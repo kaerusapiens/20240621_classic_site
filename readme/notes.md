@@ -7,8 +7,12 @@
 - [Using Node.js vs. Apache](#comparison)
 
 # log
-1. installed express
-2. `node app.js`
+1. `npm init`
+
+initializes a new Node.js project and creates a package.json file with default settings
+
+2. `npm install express`
+3. `node app.js`
 
 # repository_purpose
 for creating classic site and host on local node.js.
