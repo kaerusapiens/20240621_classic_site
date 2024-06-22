@@ -1,17 +1,27 @@
-# Description about this repository
+# Table of Content
 
+
+- [log](#log)
+- [repositoy_purpose](#repository_purpose)
+- [Notes for node.js](#Node.js)
+- [Using Node.js vs. Apache](#comparison)
+
+# log
+1. installed express
+2. `node app.js`
+
+# repository_purpose
+for creating classic site and host on local node.js.
+understanding the javascript language of backend role.
+
+# Node.js
 Node.js application for running a web server on your local machine, listening for requests on port 3000.
 
 Node.js is a runtime environment that allows you to run JavaScript on the server side. It provides a non-blocking, event-driven architecture that is well-suited for building scalable web applications. Using Node.js to run a web server involves using modules like http or frameworks like Express to handle HTTP requests and responses.
 
 
-#log
-1. installed express
-2. `node app.js`
-
-
-# Using Node.js vs. Apache
-
+# Comparison
+Using Node.js vs. Apache
 ## Node.js:
 Runs JavaScript code on the server side.
 Often used for building modern, scalable, real-time web applications.
