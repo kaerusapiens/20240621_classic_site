@@ -1,6 +1,6 @@
 # Table of Content
 
-- [repositoy_purpose](#repository_purpose)
+- [Purpose](#Purpose)
 - [log](#log)
 - [Notes for node.js](#Node.js)
 - [Using Node.js vs. Apache](#comparison)
