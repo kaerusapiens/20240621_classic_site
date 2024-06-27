@@ -1,10 +1,14 @@
 # Table of Content
 
-
-- [log](#log)
 - [repositoy_purpose](#repository_purpose)
+- [log](#log)
 - [Notes for node.js](#Node.js)
 - [Using Node.js vs. Apache](#comparison)
+
+# repository_purpose
+for creating classic site and host on local node.js.
+understanding the javascript language of backend role.
+
 
 # log
 1. `npm init`
@@ -14,12 +18,9 @@ initializes a new Node.js project and creates a package.json file with default s
 2. `npm install express`
 3. `node app.js`
 
-# repository_purpose
-for creating classic site and host on local node.js.
-understanding the javascript language of backend role.
 
 # Node.js
-Node.js application for running a web server on your local machine, listening for requests on port 3000.
+Node.js application for running a web server on your local machine, listening for requests on port 3000 in this repository.
 
 Node.js is a runtime environment that allows you to run JavaScript on the server side. It provides a non-blocking, event-driven architecture that is well-suited for building scalable web applications. Using Node.js to run a web server involves using modules like http or frameworks like Express to handle HTTP requests and responses.
 
